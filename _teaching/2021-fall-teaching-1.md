@@ -8,7 +8,7 @@ date: Sept. 2021 - Dec. 2021
 location: "New York, NY"
 ---
 
-I was a teaching assistant for [Xavier Sala-i-Martin](https://www.salaimartin.com/) and his section of Intermediate Macroeconomics.
+I was a teaching assistant for Professor [Xavier Sala-i-Martin](https://www.salaimartin.com/) and his section of Intermediate Macroeconomics.
 
 I held weekly hour-long recitations for 20 - 30 students covering material from lecture in addition to supplemental material.
 
