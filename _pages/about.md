@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year undergraduate in my penultimate year at [Columbia](https://www.college.columbia.edu/) studying Mathematics, Statistics, and Economics.
+I am a fourth-year undergraduate in my at [Columbia](https://www.college.columbia.edu/) studying Mathematics, Statistics, and Economics.
 
 Research Interests
 ======
