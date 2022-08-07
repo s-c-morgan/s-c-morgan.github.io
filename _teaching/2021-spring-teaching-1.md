@@ -3,7 +3,7 @@ title: "Spring 2021"
 collection: teaching
 type: "Calculus-Based Introduction to Statistics"
 permalink: /teaching/2021-spring
-venue: "Columbia University, Economics"
+venue: "Columbia University, Statistics"
 date: Jan. 2021 - Apr. 2021
 location: "New York, NY"
 ---
