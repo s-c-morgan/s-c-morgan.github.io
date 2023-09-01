@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year undergraduate at [Columbia](https://www.college.columbia.edu/) studying Mathematics, Statistics, and Economics.
+I am a first-year PhD Student in Statistics at [Michigan](https://lsa.umich.edu/stats).
 
 Research Interests
 ======
-1. Strategies for identifying and understanding causal mechanisms in the social sciences
-1. Bayesian Machine Learning
-1. Housing and education policy
+1. Strategies for identifying and understanding causal mechanisms in the social sciences with a focus on Network data
+1. Bayesian Paradigms in Statistical Machine Learning
+1. Real Estate and Housing Policy
+
