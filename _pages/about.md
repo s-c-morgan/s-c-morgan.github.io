@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD Student in Statistics at [Michigan](https://lsa.umich.edu/stats).
+I am a second-year PhD Student in Statistics at [Michigan](https://lsa.umich.edu/stats). 
 
 Research Interests
 ======
