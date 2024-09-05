@@ -8,4 +8,4 @@ date: Jan. 2021 - Apr. 2021
 location: "New York, NY"
 ---
 
-I was a grader for Joyce Robbins, and in charge of grading weekly homework assignments.
+I was a grader for Dr. Joyce Robbins, and in charge of grading weekly homework assignments.
